@@ -1,3 +1,11 @@
 .blackSquare {
     background-color: rgb(105, 144, 78);
+    width: 100px;
+    height: 100px;
+}
+
+.whiteSquare {
+    background-color: rgb(255, 241, 198);
+    width: 100px;
+    height: 100px;
 }
